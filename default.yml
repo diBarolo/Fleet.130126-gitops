@@ -24,7 +24,7 @@ org_settings:
     transparency_url: https://catoftheday.com/
   host_expiry_settings:
     host_expiry_enabled: true
-    host_expiry_window: 120
+    host_expiry_window: 30
   webhook_settings:
     activities_webhook:
       enable_activities_webhook: true
