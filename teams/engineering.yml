@@ -20,7 +20,7 @@ agent_options:
 controls:
   ipados_updates:
     deadline: "2026-01-31"
-    minium_version: "26.2"
+    minimum_version: "26.2"
   macos_settings:
     custom_settings:
     - path: ../lib/macos/configuration-profiles/disable-bluetooth-file-sharing.mobileconfig
